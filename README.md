@@ -25,3 +25,5 @@
 
 <br />
 <br />
+
+[telegram]: https://t.me/keorin
