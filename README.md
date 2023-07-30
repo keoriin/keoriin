@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Mad
 
 ## I'm a Junior FullStack
-- 💪 I like to write code
+- 💪 Competitive programmer
 - 🥅 I am constantly learning new things
-- 🤹🏽 Noob Student
+- 🤹🏽 Currently Studying
 
 ### Connect with me:
 
