@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Mad
 
-## I'm a Junior FullStack
-- 💪 Competitive programmer
+## I'm a Data Analyst
 - 🥅 I am constantly learning new things
 - 🤹🏽 Currently Studying
 
